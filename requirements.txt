@@ -1,0 +1,14 @@
+langchain==0.3.0
+langchain-anthropic==0.2.0
+langchain-community==0.3.0
+anthropic==0.34.0
+qdrant-client==1.11.0
+fastapi==0.115.0
+uvicorn==0.30.0
+streamlit==1.39.0
+pymupdf==1.24.0
+sentence-transformers==3.1.0
+plotly==5.24.0
+python-dotenv==1.0.0
+pydantic==2.9.0
+pandas==2.2.0
